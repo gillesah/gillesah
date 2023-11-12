@@ -7,3 +7,5 @@ Fort d’un parcours de plus de 15 ans dans la communication digitale, je suis a
 ## Technologies
 
 Python | HTML / CSS | Django | Angular | Spark | Git
+
+//
