@@ -2,7 +2,7 @@
 
 **Je construis avec l'IA. Je n'en parle pas, je l'utilise.**
 
-Entrepreneur, ingénieur logiciel, fondateur de FluenzR. J'aide les entrepreneurs à intégrer l'IA dans leur business, sur le terrain, pas en théorie.
+Entrepreneur, ingénieur logiciel, fondateur de [ForgR](https://forgr.co/) FluenzR. J'aide les entrepreneurs à intégrer l'IA dans leur business, sur le terrain, pas en théorie.
 
 🌍 [gilleshelleu.com](https://gilleshelleu.com) · 💼 [LinkedIn](https://www.linkedin.com/in/gilleshelleu/) · ✍️ [Medium](https://medium.com/@helleugilles)
 
